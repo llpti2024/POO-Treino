@@ -20,7 +20,7 @@ public class Main {
               UEC01.marcarLuta(l[4], l[3]);
               UEC01.lutar();
 
-      
+
 
     }
 }
