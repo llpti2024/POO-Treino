@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa03a87-917c-4a1a-ade7-e4d0c3e15c80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/ExercicioTresPoo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/Exerciciotres.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/src/Lutador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicioquatro/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicioTresPoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exerciciotres.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lutador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exerciciotres/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exerciciotres/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
