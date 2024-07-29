@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExercicioCinco/ExercicioCinco.iml" filepath="$PROJECT_DIR$/ExercicioCinco/ExercicioCinco.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioDois/ExercicioDois.iml" filepath="$PROJECT_DIR$/ExercicioDois/ExercicioDois.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioQuatro/ExercicioQuatro.iml" filepath="$PROJECT_DIR$/ExercicioQuatro/ExercicioQuatro.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioSeis/ExercicioSeis.iml" filepath="$PROJECT_DIR$/ExercicioSeis/ExercicioSeis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioSete/ExercicioSete.iml" filepath="$PROJECT_DIR$/ExercicioSete/ExercicioSete.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioTres/ExercicioTres.iml" filepath="$PROJECT_DIR$/ExercicioTres/ExercicioTres.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioTres-2/ExercicioTres-2.iml" filepath="$PROJECT_DIR$/ExercicioTres-2/ExercicioTres-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioUm/ExercicioUm.iml" filepath="$PROJECT_DIR$/ExercicioUm/ExercicioUm.iml" />
